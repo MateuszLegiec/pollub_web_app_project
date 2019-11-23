@@ -1,0 +1,18 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "pollub web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "MateuszLegiec",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "3.0.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^5.7.4"
+  }
+}
