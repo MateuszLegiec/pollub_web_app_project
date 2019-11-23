@@ -1,6 +1,3 @@
-# pollub_web_app_project
-Web app final project
-
 # Pollub web app project
 An REST application used to task managing
 
