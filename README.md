@@ -30,6 +30,8 @@ An REST application used to task managing
    - Install all required dependencies `npm install`
  
    - Run in the project directory: `npm start`
+   
+   - Jump to app.js and change [mongoose](https://mongoosejs.com/) [uri](https://cloud.mongodb.com)
   
 #### Author
 
