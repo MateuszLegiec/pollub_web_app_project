@@ -9,7 +9,7 @@
   "author": "MateuszLegiec",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "3.0.6",
+    "bcrypt": "5.0.0",
     "cors": "^2.8.5",
     "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
